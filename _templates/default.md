@@ -1,7 +1,7 @@
 ---
 description:
-date: "{{date}}"
 type:
+date: "{{date}}"
 draft: "true"
 tags:
 ---
