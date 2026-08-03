@@ -2,7 +2,7 @@
 description:
 type: troubleshoot
 date: "{{date}}"
-difficulty: beginner | hard
+difficulty:
 draft: true
 tags:
 ---
