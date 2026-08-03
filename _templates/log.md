@@ -1,6 +1,6 @@
 ---
 description:
-type: troubleshoot
+type: log
 date: "{{date}}"
 draft: "true"
 tags:
