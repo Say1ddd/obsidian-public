@@ -9,7 +9,6 @@ draft: true
 ---
 # Problem
 What happened?
-
 # Cause
 Why did it happen?
 
