@@ -1,8 +1,8 @@
 ---
 description:
 type: reference
-date: "{{date}}"
-draft: "true"
+date: {{date}}
+draft: true
 tags:
 ---
 # Syntax
