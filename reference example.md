@@ -1,9 +1,11 @@
 ---
-title: "reference example"
+title: reference example
 summary:
 type: reference
-date: "2026-08-03"
+date: 2026-08-03
 tags:
+  - example
+  - lorem-ipsum
 draft: true
 ---
 # Syntax
