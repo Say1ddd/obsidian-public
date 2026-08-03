@@ -13,7 +13,7 @@ so i have an idea
 here's the detailed idea
 
 # Example
-here's an exam
+here's an example of the idea
 
 # Related
 - [[Another Note]]
