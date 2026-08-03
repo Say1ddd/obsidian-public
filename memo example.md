@@ -16,4 +16,4 @@ here's the detailed idea
 here's an example of the idea
 
 # Related
-- [[Another Note]]
+- [[related idea]]
