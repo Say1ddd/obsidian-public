@@ -5,6 +5,7 @@ type: memo
 date: 2026-08-03
 tags:
   - "#example"
+  - lorem_ipsup
 draft: true
 ---
 # Idea
