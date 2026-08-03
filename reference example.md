@@ -7,6 +7,10 @@ tags:
 draft: true
 ---
 # Syntax
+remember this syntax
+```typescript
+console.info('wello horld')
+```
 
 # Examples
 
