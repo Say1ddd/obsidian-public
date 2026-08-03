@@ -1,5 +1,5 @@
 ---
-topic:
+description:
 type: reference
 date: "{{date}}"
 draft: true
