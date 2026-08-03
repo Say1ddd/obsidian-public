@@ -8,9 +8,9 @@ tags:
 draft: true
 ---
 # Problem
-What happened?
+tsundere
 # Cause
-Why did it happen?
+getting teased
 
 # Solution
 The solution.
