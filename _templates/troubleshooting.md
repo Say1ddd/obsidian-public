@@ -13,4 +13,4 @@ What happened?
 Why did it happen?
 
 # Solution
-W
+The solution.
