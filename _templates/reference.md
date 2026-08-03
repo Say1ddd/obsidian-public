@@ -1,5 +1,5 @@
 ---
-shortDescription:
+short_description:
 type: reference
 date: "{{date}}"
 draft: true
