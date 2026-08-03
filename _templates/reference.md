@@ -1,4 +1,5 @@
 ---
+title: "{{title}}"
 description:
 type: reference
 date: "{{date}}"
