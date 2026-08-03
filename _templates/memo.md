@@ -1,6 +1,6 @@
 ---
 title: "{{title}}"
-description:
+summary:
 type: memo
 date: "{{date}}"
 tags:
