@@ -1,6 +1,6 @@
 ---
 description:
-type: log
+type: reference
 date: "{{date}}"
 draft: "true"
 tags:
