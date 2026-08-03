@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: {{title}}
 summary:
 type: memo
 date: "2026-08-03"
