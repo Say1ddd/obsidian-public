@@ -11,3 +11,6 @@ What happened?
 
 # Cause
 Why did it happen?
+
+# Solution
+W
