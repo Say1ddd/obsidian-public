@@ -5,3 +5,5 @@ date: "{{date}}"
 draft: "true"
 tags:
 ---
+# Syntax
+
