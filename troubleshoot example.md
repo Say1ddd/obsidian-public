@@ -1,6 +1,6 @@
 ---
 title: troubleshoot example
-summary:
+summary: how to fix a tsundere android
 type: troubleshoot
 date: 2026-08-03
 difficulty:
