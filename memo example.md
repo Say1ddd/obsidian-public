@@ -13,6 +13,7 @@ so i have an idea
 here's the detailed idea
 
 # Example
+here's an exam
 
 # Related
 - [[Another Note]]
