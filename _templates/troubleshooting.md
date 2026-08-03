@@ -2,8 +2,8 @@
 description:
 type: troubleshoot
 date: "{{date}}"
-difficulty:
-draft: "true"
+difficulty: beginner | hard
+draft: true
 tags:
 ---
 # Problem
