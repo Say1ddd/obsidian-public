@@ -14,4 +14,4 @@ Changes are committed and pushed after a period of inactivity using a keystroke 
 
 - Default debounce interval: **3000 ms (3 seconds)**
 
-This repository is intended solely for backup and version history. It only contains the obsidian templates for consistency purposes, it does not include plugins, themes, attachments, or other Obsidian-specific files unless explicitly added.
+This repository is intended solely for backup and version history. It only contains the obsidian templates for consistency purpose, it does not include plugins, themes, attachments, or other Obsidian-specific files unless explicitly added.
