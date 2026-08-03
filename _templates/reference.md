@@ -3,8 +3,8 @@ title: "{{title}}"
 description:
 type: reference
 date: "{{date}}"
-draft: true
 tags:
+draft: true
 ---
 # Syntax
 
