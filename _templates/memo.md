@@ -13,5 +13,4 @@ draft: true
 # Example
 
 # Related
-
 - [[Another Note]]
