@@ -1,6 +1,6 @@
 # Obsidian Vault Backup
 
-This repository serves as a backup vault for my Obsidian notes and as a resource for my web app.
+This repository serves as a backup vault for my Obsidian notes and resources for my web app.
 
 ## Purpose
 
