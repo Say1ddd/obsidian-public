@@ -1,8 +1,8 @@
 ---
-title: "troubleshoot example"
+title: troubleshoot example
 summary:
 type: troubleshoot
-date: "2026-08-03"
+date: 2026-08-03
 difficulty:
 tags:
 draft: true
