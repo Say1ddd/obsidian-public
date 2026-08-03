@@ -10,7 +10,7 @@ draft: true
 so i have an idea
 
 # Details
-
+here's the detailed idea
 
 # Example
 
