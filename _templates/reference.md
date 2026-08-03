@@ -1,19 +1,7 @@
 ---
 description:
 type: reference
-
-published: 2026-08-03
-
-tags: []
-
-status: published
-visibility: public
+date: "{{date}}"
+draft: "true"
+tags:
 ---
-
-# Syntax
-
-# Examples
-
-# Gotchas
-
-# Links
