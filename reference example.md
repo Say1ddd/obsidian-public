@@ -1,6 +1,6 @@
 ---
 title: reference example
-summary:
+summary: remember this for later
 type: reference
 date: 2026-08-03
 tags:
