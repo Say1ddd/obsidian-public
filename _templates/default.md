@@ -1,4 +1,5 @@
 ---
 title:
 description:
+date: "{{date}}"
 ---
