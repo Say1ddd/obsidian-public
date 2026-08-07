@@ -1,7 +1,6 @@
 ---
 title: reference example
 summary: remember this for later
-type: reference
 date: 2026-08-03
 tags:
   - example
