@@ -1,7 +1,7 @@
 ---
 title: "{{title}}"
 summary: my idea
-type: notes
+type: note
 date: 2026-08-03
 tags:
   - "#example"
