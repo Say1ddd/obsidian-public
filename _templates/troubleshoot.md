@@ -2,8 +2,8 @@
 title: "{{title}}"
 summary:
 date: "{{date}}"
-level:
 tags:
+level:
 relatedReferences:
 draft: true
 ---
