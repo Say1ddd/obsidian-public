@@ -1,4 +1,4 @@
-# Obsidian Vault Backup
+# My Public Vault
 
 This repository serves as a backup vault for my Obsidian notes and resources for my web app (through automatic redeployment trigger script).
 
