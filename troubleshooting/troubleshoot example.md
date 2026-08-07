@@ -8,6 +8,7 @@ tags:
   - lorem-ipsum
 level: easy
 draft: true
+relatedReferences:
 ---
 # Problem
 tsundere
