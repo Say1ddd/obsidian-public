@@ -5,7 +5,6 @@ date: 2026-08-03
 tags:
   - example
   - lorem-ipsum
-relatedReferences:
 draft: true
 ---
 # Syntax
