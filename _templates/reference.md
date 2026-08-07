@@ -1,7 +1,7 @@
 ---
 title: "{{title}}"
 summary:
-type: reference
+type: references
 date: "{{date}}"
 tags:
 draft: true
