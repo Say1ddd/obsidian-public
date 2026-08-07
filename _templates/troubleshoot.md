@@ -4,6 +4,7 @@ summary:
 date: "{{date}}"
 level:
 tags:
+relatedReferences:
 draft: true
 ---
 # Problem
