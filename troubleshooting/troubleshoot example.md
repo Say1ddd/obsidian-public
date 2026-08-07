@@ -6,6 +6,7 @@ date: 2026-08-03
 tags:
   - example
   - lorem-ipsum
+level: easy
 draft: true
 ---
 # Problem
