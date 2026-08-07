@@ -7,8 +7,8 @@ tags:
   - example
   - lorem-ipsum
 level: easy
-draft: true
 relatedReferences:
+draft: true
 ---
 # Problem
 tsundere
