@@ -1,7 +1,6 @@
 ---
 title: "{{title}}"
 summary:
-type: troubleshoot
 date: "{{date}}"
 difficulty:
 tags:

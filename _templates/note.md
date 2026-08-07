@@ -1,7 +1,6 @@
 ---
 title: "{{title}}"
 summary:
-type: note
 date: "{{date}}"
 tags:
 draft: true
