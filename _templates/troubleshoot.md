@@ -3,8 +3,8 @@ title: "{{title}}"
 summary:
 date: "{{date}}"
 tags:
-level:
 relatedReferences:
+level:
 draft: true
 ---
 # Problem
