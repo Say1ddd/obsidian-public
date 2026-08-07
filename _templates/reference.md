@@ -3,7 +3,7 @@ title: "{{title}}"
 summary:
 date: "{{date}}"
 tags:
-draft: true
+	draft: true
 ---
 # Syntax
 
