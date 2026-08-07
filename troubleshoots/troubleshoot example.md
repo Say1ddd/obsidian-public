@@ -6,7 +6,7 @@ tags:
   - example
   - lorem-ipsum
 relatedReferences:
-level: advanced
+level: beginner
 draft: true
 ---
 # Problem
