@@ -2,7 +2,7 @@
 title: "{{title}}"
 summary:
 date: "{{date}}"
-difficulty:
+level:
 tags:
 draft: true
 ---
