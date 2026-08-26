@@ -1,6 +1,6 @@
 ---
 title: Vue router router path IDE autocompletion in Nuxt 4
-summary:
+summary: Getting the type from generated file-based routing in Nuxt 4
 date: 2026-08-26
 tags:
 draft: true
