@@ -31,7 +31,7 @@ const router = useRoute()
 </template>
 ```
 
-Or your 
+Or you can expose
 # Gotchas
 
 # Links
