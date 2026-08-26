@@ -2,7 +2,7 @@
 title: provide
 summary: Type-safe provide/inject that behaves like getter + setter
 date: 2026-08-26
-tags:
+tags: []
 draft: true
 ---
 # Syntax
