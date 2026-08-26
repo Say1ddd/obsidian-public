@@ -23,8 +23,6 @@ After toggling experimental `typedPages` on, now you can have autocompletion on 
 <script setup lang="ts">
 const router = useRoute()
 <template>
-
-<script setup>
  lang ts
 </template>
 ```
