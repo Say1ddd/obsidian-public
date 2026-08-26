@@ -17,7 +17,7 @@ export default defineNuxtConfig({
 ```
 
 # Examples
-
+After setting up 
 
 # Gotchas
 
