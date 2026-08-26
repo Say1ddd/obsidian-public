@@ -43,4 +43,5 @@ type NuxttePath = keyof typeof Router[number]
 # Gotchas
 
 # Links
+https://nuxt.com/docs/4.x/getting-started/upgrade#typed-pages-enabled-by-default
 https://nuxt.com/docs/4.x/guide/going-further/experimental-features#typedpages
