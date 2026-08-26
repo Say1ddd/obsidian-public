@@ -25,7 +25,7 @@ const router = useRoute()
 </script>
 
 <template>
- <button @click="router.p">
+ <button @click="router.push(')">
  To about page
  </button>
 </template>
