@@ -1,1 +1,0 @@
-https://mokkapps.de/vue-tips/mutate-your-state-inside-of-the-provider-using-provide-and-inject
