@@ -17,7 +17,7 @@ export default defineNuxtConfig({
 ```
 
 # Examples
-After toggling the experimental typedPag
+After toggling the experimental `typedPages` 
 
 # Gotchas
 
