@@ -25,7 +25,8 @@ const router = useRoute()
 </script>
 
 <template>
- <button>Go into my abo</button>
+ <button>
+ Go into my about page</button>
 </template>
 ```
 
