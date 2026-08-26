@@ -26,7 +26,8 @@ const router = useRoute()
 
 <template>
  <button>
- Go into my about page</button>
+ Go into my about page
+ </button>
 </template>
 ```
 
