@@ -9,6 +9,7 @@ draft: true
 Enable experimental option for `typedPages` in nuxt config:
 ```typescript
 experimental: {
+	typedPa
 }
 ```
 
