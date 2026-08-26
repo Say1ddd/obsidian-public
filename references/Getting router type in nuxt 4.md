@@ -34,6 +34,9 @@ const router = useRoute()
 Or you can expose a type that contains all of your route paths.
 ```ts
 export type RoutePath = RouteNameMap[keyof RouteNameMap]['path']
+
+// same as
+type RoutePath = keyof typeof
 ```
 # Gotchas
 
