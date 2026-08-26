@@ -6,7 +6,7 @@ tags:
 draft: true
 ---
 # Syntax
-Enable experimental option for `typedPages` in nuxt config:
+Enable experimental option for `typedPages` in Nuxt config:
 ```ts
 // nuxt.config.ts
 export default defineNuxtConfig({
@@ -36,7 +36,7 @@ Or you can expose a type that contains all of your route paths.
 export type RoutePath = RouteNameMap[keyof RouteNameMap]['path']
 
 // same as
-type RoutePath = keyof typeof Router[number]
+type NuxttePath = keyof typeof Router[number]
 ```
 # Gotchas
 
