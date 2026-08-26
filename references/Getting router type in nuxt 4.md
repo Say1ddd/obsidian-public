@@ -6,7 +6,7 @@ tags:
 draft: true
 ---
 # Syntax
-Enable experimental option for `typedPages` in Nuxt config:
+Enable experimental option for `typedPages` in your nuxt config:
 ```ts
 // nuxt.config.ts
 export default defineNuxtConfig({
