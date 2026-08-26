@@ -7,7 +7,7 @@ draft: true
 ---
 # Syntax
 Enable experimental option for `typedPages` in nuxt config:
-```typescript
+```ts
 experimental: {
 	typedPages: true
 }
