@@ -22,7 +22,7 @@ After toggling experimental `typedPages` on, now you can have autocompletion on 
 ```vue
 <script setup lang="ts">
 const router = useRoute()
-<script>
+</script>
 
 <template>
  lang ts
