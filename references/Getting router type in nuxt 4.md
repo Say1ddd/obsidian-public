@@ -20,14 +20,14 @@ export default defineNuxtConfig({
 After toggling experimental `typedPages` on, now you can have autocompletion on your IDE.
 
 ```vue
-<script setup>
-
+<script setup lang ts>
+ lang ts
 const router = useRoute()
 
 <template>
 
 <script setup>
-
+ lang ts
 </template>
 ```
 
