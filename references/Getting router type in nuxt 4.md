@@ -31,7 +31,10 @@ const router = useRoute()
 </template>
 ```
 
-Or you can expose type containing all of your route paths
+Or you can expose type containing all of your route paths.
+```vue
+
+```
 # Gotchas
 
 # Links
