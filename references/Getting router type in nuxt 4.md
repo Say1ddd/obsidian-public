@@ -31,7 +31,7 @@ const router = useRoute()
 </template>
 ```
 
-Or you can expose type containing the 
+Or you can expose type containing the route path
 # Gotchas
 
 # Links
