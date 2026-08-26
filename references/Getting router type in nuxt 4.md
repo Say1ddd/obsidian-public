@@ -17,7 +17,10 @@ export default defineNuxtConfig({
 ```
 
 # Examples
-After toggling the experimental `typedPages` 
+After toggling experimental `typedPages` on, now you can have autocompletion on your IDE.
+
+```
+```
 
 # Gotchas
 
