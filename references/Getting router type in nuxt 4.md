@@ -23,7 +23,8 @@ After toggling experimental `typedPages` on, now you can have autocompletion on 
 const router = useRoute()
 
 <template>
-</templ>
+
+</template>
 ```
 
 # Gotchas
