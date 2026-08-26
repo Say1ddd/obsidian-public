@@ -21,3 +21,4 @@ export default defineNuxtConfig({
 # Gotchas
 
 # Links
+https://nuxt.com/docs/4.x/guide/going-further/experimental-features#typedpages
