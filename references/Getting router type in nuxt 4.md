@@ -5,7 +5,7 @@ date: "2026-08-26"
 tags:
 draft: true
 ---
-> This option is enabled automatically in the upcoming `compatibilityVersion: 5` (nuxt 5). source
+> This option is enabled automatically in the upcoming `compatibilityVersion: 5` (nuxt 5) as stated in
 
 # Syntax
 Enable experimental option for `typedPages` in your nuxt config:
