@@ -36,7 +36,7 @@ Or you can expose a type that contains all of your route paths.
 export type RoutePath = RouteNameMap[keyof RouteNameMap]['path']
 
 // same as
-type RoutePath = 
+type RoutePath = R
 ```
 # Gotchas
 
