@@ -32,7 +32,7 @@ const router = useRoute()
 ```
 
 Or you can expose type containing all of your route paths.
-```vue
+```ts
 
 ```
 # Gotchas
