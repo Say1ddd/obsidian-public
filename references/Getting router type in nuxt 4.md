@@ -8,6 +8,7 @@ draft: true
 # Syntax
 Enable experimental option for `typedPages` in nuxt config:
 ```ts
+// nuxt.config.ts
 export default defineNuxtConfig({
   experimental: {
     typedPages: true,
