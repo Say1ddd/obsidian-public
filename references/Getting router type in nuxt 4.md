@@ -13,7 +13,6 @@ export default defineNuxtConfig({
     typedPages: true,
   },
 })
-
 ```
 
 # Examples
