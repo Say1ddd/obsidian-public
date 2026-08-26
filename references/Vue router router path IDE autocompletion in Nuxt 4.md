@@ -2,7 +2,8 @@
 title: Vue router router path IDE autocompletion in Nuxt 4
 summary: Getting the type from generated file-based routing in Nuxt 4
 date: 2026-08-26
-tags: []
+tags:
+  - "#nuxt"
 draft: true
 ---
 > This option is enabled automatically in the upcoming `compatibilityVersion: 5` (Nuxt 5) as stated in [Nuxt's official documentation](https://nuxt.com/docs/4.x/getting-started/upgrade#typed-pages-enabled-by-default).
