@@ -1,7 +1,7 @@
 ---
-title: "Obsidian welcome designs"
-summary:
-date: "2026-08-27"
+title: Obsidian welcome designs
+summary: Obsidian welcome design conventions i find
+date: 2026-08-27
 tags:
 draft: true
 ---
