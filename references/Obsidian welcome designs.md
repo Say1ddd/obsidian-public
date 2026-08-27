@@ -12,3 +12,4 @@ draft: true
 # Gotchas
 
 # Links
+https://obsidian.rocks/home-notes-in-obsidian-with-examples/#Dashboard-home-note
